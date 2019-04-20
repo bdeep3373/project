@@ -4,3 +4,5 @@ Download from https://github.com/PrestaShop/docker.git
 Extract only files that require to Github
 Upload to GitHub (prod branch)
 
+Test
+
